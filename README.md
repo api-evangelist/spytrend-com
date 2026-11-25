@@ -1,4 +1,4 @@
-# spytrend-com
+# Spytrend
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,130 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-spytrend-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://spytrend.com/
+Spytrend provides a suite of advertising intelligence tools that let media buyers, affiliates and webmasters view competitor ad campaigns across Facebook, Instagram and TikTok, as well as related landing pages, pixels and domains. The platform also offers content AI for viral video scripts, influencer databases, e‑commerce shop and product data, search‑arbitrage ad templates, and startup funding and traffic information. Users can monitor real‑time ad activity, filter by days active, and receive alerts via a Telegram bot.
+
+**Areas:** Ad research · Media buying · Ad spy · Content AI · Influencer data · E‑commerce intelligence · Search arbitrage · Startup intelligence
+
+## Spytrend on APIs.io
+
+Everything profiled for Spytrend is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/spytrend-com/](https://apis.io/providers/spytrend-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (3)
+
+- [Spytrend Ads API](https://apis.io/apis/spytrend-com/spytrend-com-ads-api/) — Search and fetch ads
+- [Spytrend Entities API](https://apis.io/apis/spytrend-com/spytrend-com-entities-api/) — Advertisers, webmasters and creatives
+- [Spytrend Trends API](https://apis.io/apis/spytrend-com/spytrend-com-trends-api/) — Aggregated trend rankings
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Spytrend Agentic Access](https://apis.io/agentic-access/spytrend-com/spytrend-com-agentic-access/)
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [AdsPage](https://apis.io/schemas/spytrend-com/spytrend-com-ads-page/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Spytrend Com Context](https://apis.io/jsonld/spytrend-com/spytrend-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Spytrend API Rules](https://apis.io/rules/spytrend-com/spytrend-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Spytrend Authentication](https://apis.io/security/spytrend-com/spytrend-com-authentication/)
+- [Spytrend Domain Security](https://apis.io/security/spytrend-com/spytrend-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Spytrend Scopes](https://apis.io/scopes/spytrend-com/spytrend-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Spytrend Plans Pricing](https://apis.io/plans/spytrend-com/spytrend-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://spytrend.com/)
+- [Pricing](https://spytrend.com/pricing)
+- [Blog](https://spytrend.com/blog)
+- [Terms of service](https://spytrend.com/legal/terms)
+- [Privacy policy](https://spytrend.com/legal/privacy)
+- [GitHub](https://github.com/Spytrend)
+
+## API Evangelist rating
+
+**Kin Score 51.8** — developing · rubric 0.27.0 · scored 2026-11-25
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.7 |
+| Contract quality | 52.6 |
+| Contract governance | 79.1 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 21.4 |
+| Access clarity | 73.2 |
+
+**Agent readiness 52.6** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 34.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/spytrend-com/](https://apis.io/providers/spytrend-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Spytrend: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/spytrend-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
